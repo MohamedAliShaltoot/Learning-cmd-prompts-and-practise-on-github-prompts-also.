@@ -65,6 +65,14 @@
 
     git clean -n  
 
-8] How to delete current files that shows when git clean -n .
+ 9] How to delete current files that shows when git clean -n .
 
     git clean -f     
+
+10] How to add tags .
+
+    git tag ----> list all existing tags
+
+    git tag v1.0
+
+    git push origin v1.0   
