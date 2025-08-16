@@ -63,4 +63,8 @@
 
  8] How to display current files that will delete.
 
-    git clean -n     
+    git clean -n  
+
+8] How to delete current files that shows when git clean -n .
+
+    git clean -f     
