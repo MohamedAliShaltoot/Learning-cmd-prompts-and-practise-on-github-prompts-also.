@@ -1,0 +1,7 @@
+1] delete a branch : 
+    
+    git branch -d branch_name
+2] Modify a commit 
+
+    git commit --amend but before it write 
+    git config --global core.editor "code --wait" // for more useful GUI 
