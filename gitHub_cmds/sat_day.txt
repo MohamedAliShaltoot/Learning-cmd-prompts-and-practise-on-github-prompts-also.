@@ -1,6 +1,10 @@
 1] delete a branch : 
     
-    git branch -d branch_name
+    git branch -d branch_name // لو تعديلات ملهاش كوميت مش هيرضي يمسح
+
+    git branch -D branch_name // لو في تعديلات مالهاش كوميت هيمسحها بالقوه
+
+
 2] Modify a commit 
 
     git commit --amend but before it write 
