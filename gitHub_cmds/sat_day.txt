@@ -5,3 +5,11 @@
 
     git commit --amend but before it write 
     git config --global core.editor "code --wait" // for more useful GUI 
+
+3] How to create an alias
+
+     git config --global alias.cm "commit -m"
+
+     git config --global alias.st status
+
+     git config --global alias.br branch
