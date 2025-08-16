@@ -82,3 +82,13 @@
    # Annotated Wright tag 
 
     git tag -a v2.0 -m " msg "
+
+
+    ------
+    git tag -l "v0.*" ---> to list all tage starts with v0.
+
+ 11] How to delete local / remote tags .   
+
+     git tag -d tag_name
+
+     git push origin --delete tag_name
