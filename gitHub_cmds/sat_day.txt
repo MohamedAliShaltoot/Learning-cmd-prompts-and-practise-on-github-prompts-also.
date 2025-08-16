@@ -71,8 +71,14 @@
 
 10] How to add tags .
 
+   # Light Wright tag
+
     git tag ----> list all existing tags
 
     git tag v1.0
 
     git push origin v1.0   
+
+   # Annotated Wright tag 
+
+    git tag -a v2.0 -m " msg "
