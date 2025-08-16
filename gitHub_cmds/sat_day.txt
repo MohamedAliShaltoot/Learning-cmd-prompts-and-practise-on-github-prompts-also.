@@ -60,3 +60,7 @@
     or
 
     git restore --staged file_name        
+
+ 8] How to display current files that will delete.
+
+    git clean -n     
