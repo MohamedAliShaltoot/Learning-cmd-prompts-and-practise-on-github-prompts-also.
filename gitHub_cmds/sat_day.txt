@@ -51,3 +51,12 @@
     If we want a specific file from stashed list?
 
          git stash pop stash@{id}
+
+
+ 7] How to move files from staging area to working directory.
+
+    git reset head file_name 
+
+    or
+
+    git restore --staged file_name        
