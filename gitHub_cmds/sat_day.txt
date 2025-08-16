@@ -41,6 +41,8 @@
 
      git stash show  --> to show what is in stash list
 
+     git stash show stash@{id} --> to show specific folder / file contents
+
 
 
     ----
