@@ -37,4 +37,7 @@
 
     git stash list هنا بيعرض كل الملفات بال index بتاعها 
 
-    
+    ----
+    If we want a specific file from stashed list?
+
+         git stash pop stash@{id}
