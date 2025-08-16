@@ -17,3 +17,7 @@
      git config --global alias.st status
 
      git config --global alias.br branch
+ 
+4] How to create a new branch and go to it.
+
+   git checkout -b branch_name
