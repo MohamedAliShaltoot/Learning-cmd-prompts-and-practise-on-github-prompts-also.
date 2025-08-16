@@ -25,3 +25,10 @@
 5] How to rename an exiting branch.
 
     git branch -m new_branch_name
+
+6] How to disappear specific files.
+
+    git stash
+    هنا لو عملت تعديلات بس مش عاوز ارفعها دلوقت وعاوز اكمل بكتب الكومند دا 
+
+    git stash pop هنا بقا برجع الملفات تاني اقدر اعملها كوميت وافعها
